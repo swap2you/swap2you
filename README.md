@@ -76,4 +76,6 @@ This portfolio is designed for:
 ---
 
 📫 **Contact / Profiles**
-- LinkedIn: https://www.linkedin.com/in/<your-link>
+- LinkedIn: https://www.linkedin.com/in/swapnil-patil-ai-architect/
+- Website: https://swapnilpatil.tech
+- Portfolio: https://swapnilpatil.tech/resume
