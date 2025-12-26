@@ -51,4 +51,45 @@ Across repositories, focus on:
 - reporting and evidence artifacts
 - documentation clarity and onboarding flow
 
-Each repo include
+Each repo includes a **3-minute interview demo guide** explaining what to open and how
+to discuss it.
+
+---
+
+## 🔹 Core Engineering Focus
+
+- **Quality Engineering Platforms**  
+  End-to-end platforms spanning UI, API, performance, and data validation
+
+- **CI/CD Quality Gates**  
+  PR smoke, nightly regression, threshold enforcement, release readiness checks
+
+- **Automation Architecture**  
+  Java-based frameworks (Selenium, RestAssured, TestNG, Cucumber) built for scale
+
+- **Performance Engineering**  
+  Continuous performance pipelines using JMeter & Taurus with SLA validation
+
+- **Fintech Systems**  
+  Public-safe banking and financial system demos with contract-first validation
+
+- **Documentation-as-Code**  
+  Architecture docs, governance models, onboarding guides, execution flows
+
+---
+
+## 🔹 Intended Audience
+
+This portfolio is designed for:
+- Principal / Staff Engineers
+- QE Platform Leads
+- Quality Architects
+- Engineering leaders evaluating system-level thinking
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/swapnil-patil-ai-architect/
+- **Website:** https://swapnilpatil.tech
+- **Resume:** https://swapnilpatil.tech/resume
