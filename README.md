@@ -31,6 +31,58 @@ governance, and execution — not isolated test scripts.
   Architecture docs, onboarding guides, governance models, and execution flows
 
 ---
+## 🧭 Hiring Manager: Start Here
+
+If you are reviewing this GitHub as part of an interview or hiring decision, here is the fastest way to understand my work:
+
+### 1️⃣ Start with the QE Platform Contract
+**`qe-platform-reference-architecture`**  
+This defines how I think about **quality at scale**:
+- CI quality gates (PR smoke, nightly regression)
+- governance and release readiness
+- reporting and evidence standards
+- onboarding expectations for teams
+
+This repo explains *how all other platforms are designed and operated*.
+
+---
+
+### 2️⃣ Review Platform Implementations
+Each implementation applies the same contract to a different quality dimension:
+
+- **UI Automation Platform**  
+  `ui-fintech-automation-platform`  
+  Release-grade UI automation with deterministic CI gates.
+
+- **API Automation Platform**  
+  `api-fintech-automation-platform`  
+  Contract-driven API testing with reliable CI signals.
+
+- **Performance Testing Platform**  
+  `perf-fintech-testing-platform`  
+  CI-enforced performance thresholds using Taurus and JMeter.
+
+All platforms follow the same structure, documentation style, and gating philosophy.
+
+---
+
+### 3️⃣ What to Look For
+Across all repositories, focus on:
+- Architecture and separation of concerns
+- CI workflows and gate definitions
+- Reporting and evidence artifacts
+- Documentation clarity and onboarding flow
+
+Each repo includes a **3-minute interview demo guide** explaining what to open and how to discuss it.
+
+---
+
+### 4️⃣ Scope of This GitHub
+This is a **platform portfolio**, not a collection of isolated test cases.
+It demonstrates how I design, govern, and operationalize Quality Engineering systems
+for organizations operating at scale.
+
+---
 
 ## 🔹 Flagship Repositories
 
