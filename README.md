@@ -141,6 +141,25 @@ This repository is an evolving learning platform, not a production AI product.
 
 ---
 
+### Aarohan CareerOS
+
+#### [`aarohan-careeros`](https://github.com/swap2you/aarohan-careeros)
+
+A supervised, local-first career operating system demonstrating:
+
+- FastAPI and Next.js architecture;
+- PostgreSQL-backed career workflows;
+- deterministic opportunity scoring;
+- evidence-grounded resume generation;
+- human approval before external actions;
+- Playwright and API validation;
+- GitHub Actions and validation evidence;
+- privacy-conscious AI-assisted workflows.
+
+**Public-safety boundary:** The public repository contains synthetic examples and architecture evidence only. Personal career records, credentials, private correspondence, employer-confidential information, and production integration identifiers are excluded.
+
+---
+
 ## Shared Engineering Principles
 
 Across the career-relevant repositories, I emphasize:
